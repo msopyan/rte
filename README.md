@@ -1,6 +1,6 @@
 # Notula Website V4
 
-Selamat datang di Repository Notula Website V3.  Repository ini merupakan pusat dari semua kode yang dibutuhkan dalam membangun sistem Website V3. Website ini sendiri merupakan sebuah website yang dibangun khusus untuk kebutuhan PT. Bahasa Kinerja Utama.  
+Selamat datang di Repository Website.  Repository ini merupakan pusat dari semua kode yang dibutuhkan dalam membangun sistem Website V3. Website ini sendiri merupakan sebuah website yang dibangun khusus untuk kebutuhan PT. Rukmana Tirtayasa.  
 
 ## Getting Started
 
@@ -57,10 +57,8 @@ Folder ini berisi file inti kerangka kerja. Tidak disarankan untuk membuat perub
 
 ### Troubleshooting
 
-Apabila terjadi kendala dalam menjalankan sistem website-v4, Silakan hubungi tim developer di bawah ini. 
+Apabila terjadi kendala dalam menjalankan sistem website, Silakan hubungi tim developer di bawah ini. 
 
 ## Developer Team
 
-1. Faqih Sopyan (faqih@bahasakita.co.id)
-2. Nizam (nizam@bahasakita.co.id)
 
